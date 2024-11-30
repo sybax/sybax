@@ -2,8 +2,11 @@
 I am Full Stack Developer from Russia.
 
 🔭 I'm not working on anything right now.
-🌱 I'am currently learning quotes Jason Statham
+
+🌱 I'm currently learning quotes Jason Statham
+
 💬 Ask me why I'm fucked up
+
 ⚡ In my free time, I start jerking off on furies AXAXAXAXAXAX
 
 # 💻Tech Stack
